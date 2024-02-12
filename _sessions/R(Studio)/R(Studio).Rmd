@@ -5,7 +5,7 @@ author: "Einführung in die moderne Datenanalyse mit R<br>
     The R Bootcamp
   </a>
   <br>
-  <a href='https://therbootcamp.github.io/I2R_2023Sep/'>
+  <a href='https://therbootcamp.github.io/I2R_2024Feb/'>
     <i class='fas fa-clock' style='font-size:.9em;'></i>
   </a>&#8239; 
   <a href='https://therbootcamp.github.io'>
@@ -17,7 +17,7 @@ author: "Einführung in die moderne Datenanalyse mit R<br>
   <a href='https://www.linkedin.com/company/basel-r-bootcamp/'>
     <i class='fab fa-linkedin' style='font-size: .9em;'></i>
   </a>"
-date: "September 2022"
+date: "Februar 2024"
 output:
   xaringan::moon_reader:
     css: ["default", "baselrbootcamp.css"]
@@ -45,7 +45,7 @@ layout: true
     </a>
     <a href="https://therbootcamp.github.io/">
       <font color="#7E7E7E">
-      Einführung in die moderne Datenanalyse mit R | September 2023
+      Einführung in die moderne Datenanalyse mit R | Februar 2024
       </font>
     </a>
     </span>
@@ -119,7 +119,7 @@ require(tidyverse)
 
 R is eine **open-source Programmiersprache** für **statistische Berechnungen und Graphiken** die von der **R Foundation for Statistical Computing** supported wird. R wird **stark von Statistkern und Datenanalysten** für die Entwicklung von statistischer Software und Datenanalyse verwendet. 
 
-Der code der R unterliegt ist hauptsächlich in **C, Fortran, and R** geschrieben. R ist unter der GNU General Public License frei verfügbar, und es existieren Installationen für alle üblichen Systeme. Währed R für sich nur ein **command line interface** besitzt, exisistieren verschiedene **graphische Nutzerinterfaces**.
+Der Code der R unterliegt ist hauptsächlich in **C, Fortran, and R** geschrieben. R ist unter der GNU General Public License frei verfügbar, und es existieren Versionen für alle üblichen Betriebssysteme. Währed R für sich nur ein **command line interface** besitzt, exisistieren verschiedene **graphische Nutzerinterfaces**.
 
 R wurde 1993 von Ross Ihaka und Robert Gentlemen auf Basis der Programmiersprache S entwickelt.  
 
@@ -162,7 +162,7 @@ Eine Programmiersprache ist eine **formale Sprache** die eine Reihe Instruktione
 
 <u>Algorithmus in R</u>
 <mono>data <- read.table(link)<br>
-vars <- data[,c('gruppe','werte')]<br>
+vars <- data[, c('gruppe', 'werte')]<br>
 res <- lm(werte ~ gruppe, data = vars)<br>
 summary(res)<br>
 </mono>
