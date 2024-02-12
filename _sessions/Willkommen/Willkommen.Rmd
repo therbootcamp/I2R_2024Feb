@@ -5,7 +5,7 @@ author: "Einführung in die moderne Datenanalyse mit R<br>
     The R Bootcamp
   </a>
   <br>
-  <a href='https://therbootcamp.github.io/I2R_2023Sep/'>
+  <a href='https://therbootcamp.github.io/I2R_2024Feb/'>
     <i class='fas fa-clock' style='font-size:.9em;'></i>
   </a>&#8239; 
   <a href='https://therbootcamp.github.io'>
@@ -17,7 +17,7 @@ author: "Einführung in die moderne Datenanalyse mit R<br>
   <a href='https://www.linkedin.com/company/basel-r-bootcamp/'>
     <i class='fab fa-linkedin' style='font-size: .9em;'></i>
   </a>"
-date: "September 2023"
+date: "Februar 2024"
 output:
   xaringan::moon_reader:
     css: ["default", "baselrbootcamp.css"]
@@ -45,7 +45,7 @@ layout: true
     </a>
     <a href="https://therbootcamp.github.io/">
       <font color="#7E7E7E">
-      Einführung in die moderne Datenanalyse mit R | September 2023
+      Einführung in die moderne Datenanalyse mit R | Februar 2024
       </font>
     </a>
     </span>
@@ -91,7 +91,7 @@ Klicke auf <high>"....running..."</high> auf unserer Website!
 # Ziel
 
 
->###Das Ziel dieses Kurses ist es Euch die Grundlagen der Programmiersprache R und einen Überblick über Einsatzmäglichkeiten zu bieten. 
+>###Das Ziel dieses Kurses ist es, euch die Grundlagen der Programmiersprache R und einen Überblick über ihre Einsatzmöglichkeiten zu bieten. 
 
 ]
 
@@ -113,9 +113,9 @@ Klicke auf <high>"....running..."</high> auf unserer Website!
   <li class="m1"><span>Der Workshop beinhaltet fünf <high>halbstündige R Blöcke</high> (in grau).</span></li>
   <li class="m2"><span>Blöcke</span></li>
   <ul class="level">
-    <li><span>Folien-basierten <high>Einführung (10min)</high></span></li> 
-    <li><span>Selbsständige <high>Übung (15min)</high></span></li> 
-    <li><span>Interaktive <high>Lösungen (5min)</high></span></li> 
+    <li><span>Folien-basierte <high>Einführung (10 min)</high></span></li> 
+    <li><span>Selbstständige <high>Übung (15 min)</high></span></li> 
+    <li><span>Interaktive <high>Lösungen (5 min)</high></span></li> 
   </ul>
 </ul>
 
@@ -138,7 +138,7 @@ Klicke auf <high>"....running..."</high> auf unserer Website!
 
 <ul>
   <li class="m1"><span>Wer bist du?</span></li>
-  <li class="m2"><span>Warum möchtest Du R lernen?</span></li>
+  <li class="m2"><span>Warum möchtest du R lernen?</span></li>
 </ul>
 
 
@@ -157,6 +157,6 @@ Klicke auf <high>"....running..."</high> auf unserer Website!
 ---
 class: middle, center
 
-<h1><a href=https://therbootcamp.github.io/I2R_2023Sep/index.html>Schedule</a></h1>
+<h1><a href=https://therbootcamp.github.io/I2R_2024Feb/index.html>Schedule</a></h1>
 
 
