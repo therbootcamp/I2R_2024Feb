@@ -5,7 +5,7 @@ author: "Einführung in die moderne Datenanalyse mit R<br>
     The R Bootcamp
   </a>
   <br>
-  <a href='https://therbootcamp.github.io/I2R_2023Sep/'>
+  <a href='https://therbootcamp.github.io/I2R_2024Feb/'>
     <i class='fas fa-clock' style='font-size:.9em;'></i>
   </a>&#8239; 
   <a href='https://therbootcamp.github.io'>
@@ -17,7 +17,7 @@ author: "Einführung in die moderne Datenanalyse mit R<br>
   <a href='https://www.linkedin.com/company/basel-r-bootcamp/'>
     <i class='fab fa-linkedin' style='font-size: .9em;'></i>
   </a>"
-date: "September 2023"
+date: "Februar 2024"
 output:
   xaringan::moon_reader:
     css: ["default", "baselrbootcamp.css"]
@@ -45,7 +45,7 @@ layout: true
     </a>
     <a href="https://therbootcamp.github.io/">
       <font color="#7E7E7E">
-      Einführung in die moderne Datenanalyse mit R | September 2023
+      Einführung in die moderne Datenanalyse mit R | Februar 2024
       </font>
     </a>
     </span>
@@ -70,7 +70,7 @@ options(digits = 4)
 
 # Glückwunsch!
 
-Ihr nun die Grundlagen von R!
+Ihr kennt nun die Grundlagen von R!
 
 ]
 
@@ -730,7 +730,7 @@ Hier ist eine unvollständige Liste guter Bücher über R lose geordnet nach vor
   <tr>    
 
   <td> 
-  <a href="http://r4ds.had.co.nz/"><img border="0" alt="W3Schools" src="http://r4ds.had.co.nz/cover.png" height="180"></a>
+  <a href="https://r4ds.hadley.nz/"><img border="0" alt="W3Schools" src="https://r4ds.hadley.nz/cover.jpg" height="180"></a>
   </td>
 
   <td>
@@ -805,22 +805,22 @@ Hier ist eine unvollständige Liste guter Bücher über R lose geordnet nach vor
   <col width="20%">
   <col width="20%">
   <col width="20%">
+  <!-- <td> -->
+  <!--   <p align="center"> -->
+  <!--     <a class="project-link" href="https://therbootcamp.github.io/#courses" align="center"> -->
+  <!--     <font style="font-size:20px;weight:700"><br>Einführung in die moderne Datenanalyse mit R</font><br> -->
+  <!--     <br> -->
+  <!--     <img src="https://therbootcamp.github.io/img/courses/0.png" height="180px" style="border-radius:50%;border:10px solid #E9ECEF"></img><br><br> -->
+  <!--     <high>Apr 8,<br>2022</high><br><br><br><br> -->
+  <!--   </p> -->
+  <!-- </td> -->
   <td>
     <p align="center">
-      <a class="project-link" href="https://therbootcamp.github.io/#courses" align="center">
-      <font style="font-size:20px;weight:700"><br>Einführung in die moderne Datenanalyse mit R</font><br>
-      <br>
-      <img src="https://therbootcamp.github.io/img/courses/0.png" height="180px" style="border-radius:50%;border:10px solid #E9ECEF"></img><br><br>
-      <high>Apr 8,<br>2022</high><br><br><br><br>
-    </p>
-  </td>
-  <td>
-    <p align="center">
-      <a class="project-link" href="https://therbootcamp.github.io/#courses" align="center">
+      <a class="project-link" href="https://advancedstudies.unibas.ch/studienangebot/kurs/explorative-datenanalyse-mit-r-webinar-272006" align="center">
       <font style="font-size:20px;weight:700"><br>Explorative Datenanalyse mit R<br></font><br>
       <br>
       <img src="https://therbootcamp.github.io/img/courses/1.png" height="180px" style="border-radius:50%;border:10px solid #E9ECEF"></img><br><br>
-      <high>Okt 13-14,<br>2023</high><br><br><br><br>
+      <high>15-16. März</high><br><br><br><br>
     </p>
   </td>
   <td>
@@ -829,7 +829,7 @@ Hier ist eine unvollständige Liste guter Bücher über R lose geordnet nach vor
       <font style="font-size:20px;weight:700"><br>Statistik mit R<br><br></font><br>
       <br>
       <img src="https://therbootcamp.github.io/img/courses/2.png" height="180px" style="border-radius:50%;border:10px solid #E9ECEF"></img><br><br>
-      <high>Dec 1-2,<br>2023</high><br><br><br><br>
+      <high>tba</high><br><br><br><br>
       </a>
     </p>
   </td>
